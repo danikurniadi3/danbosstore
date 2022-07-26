@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525633470342",
+    "project_id": "danbosstore-251c6",
+    "storage_bucket": "danbosstore-251c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525633470342:android:a2817f3f353340b8887607",
+        "android_client_info": {
+          "package_name": "com.dani.danbosstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525633470342-76rbbv31it01ahne8kvbmct3uqld87ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfwdUZF1YSfe7ZeTCzjVHvRqfe1Ssc-cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525633470342-76rbbv31it01ahne8kvbmct3uqld87ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
